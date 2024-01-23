@@ -10,14 +10,10 @@
     },
     "authors": [
         {
-            "name": "eselbelokudrenko",
+            "name": "oleksii belokudrenko",
             "email": "oleksii.bielokudrenko@gmail.com"
         }
     ],
-    "require-dev": {
-        "symfony/yaml": "^7.0",
-        "symfony/var-dumper": "^7.0"
-    },
     "require": {
         "symfony/serializer": "^7.0",
         "symfony/property-access": "^7.0"
