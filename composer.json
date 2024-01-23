@@ -1,0 +1,25 @@
+{
+    "name": "drlenux/hash-helper",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Drlenux\\HashHelper\\": "src/",
+            "test\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eselbelokudrenko",
+            "email": "oleksii.bielokudrenko@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/yaml": "^7.0",
+        "symfony/var-dumper": "^7.0"
+    },
+    "require": {
+        "symfony/serializer": "^7.0",
+        "symfony/property-access": "^7.0"
+    }
+}
